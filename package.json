@@ -26,6 +26,7 @@
         }
     ],
     "dependencies": {
+        "@gogovega/node-red-contrib-firebase-realtime-database": "^0.6.0",
         "acorn": "8.12.1",
         "acorn-walk": "8.3.4",
         "ajv": "8.17.1",
@@ -65,6 +66,8 @@
         "multer": "1.4.5-lts.1",
         "mustache": "4.2.0",
         "node-red-admin": "^4.0.1",
+        "node-red-contrib-credentials": "^0.2.3",
+        "node-red-contrib-cron-plus": "^2.1.0",
         "node-red-dashboard": "^3.6.5",
         "node-red-node-sqlite": "^1.1.0",
         "node-watch": "0.7.4",
